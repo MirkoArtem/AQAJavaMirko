@@ -1,5 +1,4 @@
 package Lesson_4;
-
 import java.util.Arrays;
 
 public class Employee {
